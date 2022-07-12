@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Educational Shiny UU</title>
-    <link>https://example.org/categories/</link>
+    <link>https://educationalshinyuu.github.io/categories/</link>
     <description>Recent content in Categories on Educational Shiny UU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://educationalshinyuu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

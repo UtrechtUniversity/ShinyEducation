@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Educational Shiny UU on Educational Shiny UU</title>
-    <link>https://example.org/about/</link>
+    <link>https://educationalshinyuu.github.io/about/</link>
     <description>Recent content in About Educational Shiny UU on Educational Shiny UU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://educationalshinyuu.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
