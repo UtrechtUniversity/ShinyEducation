@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educational Shiny UU</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Educational Shiny UU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ANOVA-assumptions</title>
+      <link>https://example.org/apps/01_anova_assumptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/apps/01_anova_assumptions/</guid>
+      <description>A R shiny app to investigate the consequences of violating each of the assumptions of ANOVA
+Go to the app here.</description>
+    </item>
+    
+    <item>
+      <title>Interactive visualization of ANCOVA</title>
+      <link>https://example.org/apps/02_ancova_shiny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/apps/02_ancova_shiny/</guid>
+      <description>This app provides a fully interactive and draggable ANCOVA analysis, so that it is clear what moving points will do to the results of an ANCOVA.
+Go to the app here.</description>
+    </item>
+    
+    <item>
+      <title>ANOVA is equal to Regression</title>
+      <link>https://example.org/apps/03_anova-regression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/apps/03_anova-regression/</guid>
+      <description>This app explains that ANOVA is equal to regression if it is written differently.
+Go to the app here.</description>
+    </item>
+    
+    <item>
+      <title>Understanding independent samples t-test</title>
+      <link>https://example.org/apps/04_histograms_independent_samples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/apps/04_histograms_independent_samples/</guid>
+      <description>This app shows histograms representing two independent samples. You can manipulate the population means, standard deviation, and sample size to examine what effect this has on the observed mean difference between the two samples.
+Go to the app here.</description>
+    </item>
+    
+    <item>
+      <title>Descriptive statistics and outliers</title>
+      <link>https://example.org/apps/05_descriptives_outliers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/apps/05_descriptives_outliers/</guid>
+      <description>This app allows you to play around with descriptive statistics and outliers.
+Go to the app here.</description>
+    </item>
+    
+    <item>
+      <title>Sampling Correlations</title>
+      <link>https://example.org/apps/06_sampling_correlations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/apps/06_sampling_correlations/</guid>
+      <description>This app illustrates how you can draw different samples from a population with a given correlation and how the sampling distribution looks when this is done multiple times.
+Go to the app here.</description>
+    </item>
+    
+    <item>
+      <title>Correlation and Regression</title>
+      <link>https://example.org/apps/07_correlation_regression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/apps/07_correlation_regression/</guid>
+      <description>Draw your own sample in the plot and get the associated correlation and regression.
+Go to the app here.</description>
+    </item>
+    
+    <item>
+      <title>Sampling from a population</title>
+      <link>https://example.org/apps/08_sampling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/apps/08_sampling/</guid>
+      <description>This app provides an illustration of different sampling techniques.
+Go to the app here.</description>
+    </item>
+    
+    <item>
+      <title>Visualize Structural Equation Models</title>
+      <link>https://example.org/apps/09_sem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/apps/09_sem/</guid>
+      <description>Visualize your structural equation model using lavaan syntax.
+Go to the app here.</description>
+    </item>
+    
+  </channel>
+</rss>
