@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/UtrechtUniversity/ShinyEducation">
-    <img width="60%" height="60%" src="https://github.com/UtrechtUniversity/ShinyEducation/blob/0a71ae6059a3948f99e6a43de4eb5b2629b264e2/logos/twitter_header_photo_2.png">
+    <img width="60%" height="60%" src="https://github.com/UtrechtUniversity/ShinyEducation/blob/5947a80dda36ad8fbb80ab02c302bda0eb27b11d/logos/logo_transparent.png">
   </a>
 </p>
 
