@@ -1,5 +1,7 @@
 ## ShinyEducation: Facilitating Statistical Learning
 
+[![DOI](https://zenodo.org/badge/513165763.svg)](https://zenodo.org/badge/latestdoi/513165763)
+
 In this projects you will find a collection of applications, developed using [Shiny](https://shiny.posit.co/), to aid student in learning statistics. The project was funded by the Utrecht University Education Incentive Funds. To find out more, visit [the website for this project](https://utrechtuniversity.github.io/ShinyEducation/apps/), of which this is the github repository. 
 
 
