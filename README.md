@@ -9,3 +9,4 @@ In this projects you will find a collection of applications, developed using [Sh
   </a>
 </p>
 
+Note that the website is build using [Hugo](https://gohugo.io/) and the [hugo-creative-portfolio-theme](https://github.com/kishaningithub/hugo-creative-portfolio-theme). A kind thank you to these developers. Especially thanks to the permissive licences used by developer of the theme, we can also use the permisive MIT licence here.
