@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apps on Educational Shiny UU</title>
+    <title>Apps on ShinyEducation UU</title>
     <link>https://utrechtuniversity.github.io/ShinyEducation/apps/</link>
-    <description>Recent content in Apps on Educational Shiny UU</description>
+    <description>Recent content in Apps on ShinyEducation UU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://utrechtuniversity.github.io/ShinyEducation/apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -97,7 +97,7 @@ Go to the app here.</description>
     </item>
     
     <item>
-      <title>Sampling</title>
+      <title>Sampling Means</title>
       <link>https://utrechtuniversity.github.io/ShinyEducation/apps/10_sampling2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
